@@ -1,0 +1,21 @@
+{
+  "name": "clientefullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cor": "^0.0.0",
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "express": "^4.18.2",
+    "my": "^0.3.3",
+    "mysql": "^2.18.1",
+    "sql": "^0.78.0"
+  }
+}
